@@ -1,0 +1,22 @@
+{
+  "name": "jwt",
+  "version": "1.0.0",
+  "description": "Practica de JWT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelSantori/JWT.git"
+  },
+  "keywords": [
+    "JWT"
+  ],
+  "author": "Manuel Antonio Campa Martínez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelSantori/JWT/issues"
+  },
+  "homepage": "https://github.com/angelSantori/JWT#readme"
+}
